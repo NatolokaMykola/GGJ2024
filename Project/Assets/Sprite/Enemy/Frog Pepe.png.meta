@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 718cf3e4d435bb2438401bbe1d1b890b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frog Pepe_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1928
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c955c3670c765804baa3f4fb51d1dab5
+      internalID: -790896578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1928
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97174bcedf29fed419c5e07efd8b7b4b
+      internalID: -1351213174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1927
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3daf6894a268479a573dd4e49fe6d
+      internalID: 515536838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1927
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636d2492d1f93a49a5bcde91cde128c
+      internalID: 1590574277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1928
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a107daecdc91540a8fba0a653f210d
+      internalID: -1352041843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1928
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2570e0ed06e8b4eb58b7bac8c59ae4
+      internalID: -2089925019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1928
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ea91b454242640af8e91e598bc3e4
+      internalID: 602380934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1928
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca13434d4105a4e84b9c647cccad0f
+      internalID: 2119615314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_8
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1927
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186d37b9cd4a584ebd51d4011262fb9
+      internalID: -1853183314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_89
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1219
+        width: 92
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab0e6ceb5e7824d89f3de4c37bf9ac
+      internalID: -909598561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_168
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 390
+        width: 27
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180aae9282947d04ea6956e8f8326b34
+      internalID: 1316999820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_169
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 391
+        width: 24
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb895185701814b9db86d2282625c6
+      internalID: 2081370793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_170
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 419
+        width: 24
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1eec0f4b97d5d4b93def9bb6c8656d
+      internalID: 2108910578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_171
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 447
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bbca663ce14e84ebdd712f6835a042
+      internalID: 1042340570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_172
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 473
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ad93b0e6651d43a030208dba4fe61
+      internalID: -1117441740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_182
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 311
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f5b5bfe71488f4385c1ed0210b10ab
+      internalID: 425682419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog Pepe_193
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 296
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf18c4652aef942a7633293cba602e
+      internalID: -1987396857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Frog Pepe_0: -790896578
+      Frog Pepe_1: -1351213174
+      Frog Pepe_10: 1078822840
+      Frog Pepe_100: 1866703225
+      Frog Pepe_101: -1050424006
+      Frog Pepe_102: 633420140
+      Frog Pepe_103: 149455392
+      Frog Pepe_104: -542426694
+      Frog Pepe_105: -833557536
+      Frog Pepe_106: -1950469936
+      Frog Pepe_107: 1466176620
+      Frog Pepe_108: -682611179
+      Frog Pepe_109: -1306230883
+      Frog Pepe_11: -230029703
+      Frog Pepe_110: 323010881
+      Frog Pepe_111: 1382110201
+      Frog Pepe_112: -1666101745
+      Frog Pepe_113: 1023384523
+      Frog Pepe_114: -1874841669
+      Frog Pepe_115: 1303918897
+      Frog Pepe_116: 1136717157
+      Frog Pepe_117: -347859222
+      Frog Pepe_118: 799480747
+      Frog Pepe_119: 89708279
+      Frog Pepe_12: 1535809860
+      Frog Pepe_120: 2059256346
+      Frog Pepe_121: -1585862877
+      Frog Pepe_122: 866061046
+      Frog Pepe_123: -724999520
+      Frog Pepe_124: 2057949900
+      Frog Pepe_125: -1569880559
+      Frog Pepe_126: -1442093939
+      Frog Pepe_127: -988861142
+      Frog Pepe_128: 1749913928
+      Frog Pepe_129: -1716260168
+      Frog Pepe_13: -1745287793
+      Frog Pepe_130: -1340313431
+      Frog Pepe_131: 1600182168
+      Frog Pepe_132: -231784653
+      Frog Pepe_133: 1677886643
+      Frog Pepe_134: 1232855567
+      Frog Pepe_135: 1966027787
+      Frog Pepe_136: 497642047
+      Frog Pepe_137: 827903752
+      Frog Pepe_138: -225034060
+      Frog Pepe_139: -2097345489
+      Frog Pepe_14: 1031645626
+      Frog Pepe_140: -677984188
+      Frog Pepe_141: -284133269
+      Frog Pepe_142: -339339916
+      Frog Pepe_143: -440569055
+      Frog Pepe_144: 149757598
+      Frog Pepe_145: -1441424979
+      Frog Pepe_146: 1786834672
+      Frog Pepe_147: 549407740
+      Frog Pepe_148: 1235682583
+      Frog Pepe_149: 345836730
+      Frog Pepe_15: -309241931
+      Frog Pepe_150: -1852743803
+      Frog Pepe_151: 1260125932
+      Frog Pepe_152: 583203615
+      Frog Pepe_153: -313436450
+      Frog Pepe_154: -1977644770
+      Frog Pepe_155: 748432992
+      Frog Pepe_156: 111019362
+      Frog Pepe_157: 1212809995
+      Frog Pepe_158: 1808203736
+      Frog Pepe_159: 595676134
+      Frog Pepe_16: 375613219
+      Frog Pepe_160: 52297749
+      Frog Pepe_161: 961619742
+      Frog Pepe_162: -413711778
+      Frog Pepe_163: -822789865
+      Frog Pepe_164: -160037092
+      Frog Pepe_165: 121803232
+      Frog Pepe_166: 240462622
+      Frog Pepe_167: -1361834547
+      Frog Pepe_168: 1316999820
+      Frog Pepe_169: 2081370793
+      Frog Pepe_17: 691858332
+      Frog Pepe_170: 2108910578
+      Frog Pepe_171: 1042340570
+      Frog Pepe_172: -1117441740
+      Frog Pepe_173: 1651685592
+      Frog Pepe_174: -1886141334
+      Frog Pepe_175: 1672700432
+      Frog Pepe_176: 1935049866
+      Frog Pepe_177: 1531547135
+      Frog Pepe_178: 481545231
+      Frog Pepe_179: -1390210126
+      Frog Pepe_18: 1795873091
+      Frog Pepe_180: -2067218721
+      Frog Pepe_181: -67561870
+      Frog Pepe_182: 425682419
+      Frog Pepe_183: 769887171
+      Frog Pepe_184: 216743125
+      Frog Pepe_185: -1657101507
+      Frog Pepe_186: -468909813
+      Frog Pepe_187: 1747187960
+      Frog Pepe_188: -104041373
+      Frog Pepe_189: 2005621431
+      Frog Pepe_19: -468197523
+      Frog Pepe_190: 2026464163
+      Frog Pepe_191: -1578642980
+      Frog Pepe_192: -257238797
+      Frog Pepe_193: -1987396857
+      Frog Pepe_194: -77284508
+      Frog Pepe_195: -1512427937
+      Frog Pepe_196: 1558090942
+      Frog Pepe_197: 339555863
+      Frog Pepe_198: 1578024773
+      Frog Pepe_199: 1400473356
+      Frog Pepe_2: 515536838
+      Frog Pepe_20: -223875414
+      Frog Pepe_200: 1876602367
+      Frog Pepe_201: -1107735602
+      Frog Pepe_202: -1208979670
+      Frog Pepe_203: -2115144264
+      Frog Pepe_204: -520751383
+      Frog Pepe_205: -69043918
+      Frog Pepe_206: -1109387552
+      Frog Pepe_207: 56954516
+      Frog Pepe_208: -859445594
+      Frog Pepe_209: -239237653
+      Frog Pepe_21: -360509507
+      Frog Pepe_22: -976767181
+      Frog Pepe_23: 1884288238
+      Frog Pepe_24: -1454325276
+      Frog Pepe_25: 772724498
+      Frog Pepe_26: 1772416858
+      Frog Pepe_27: -1817720987
+      Frog Pepe_28: -285705733
+      Frog Pepe_29: 2023573723
+      Frog Pepe_3: 1590574277
+      Frog Pepe_30: -292651664
+      Frog Pepe_31: 466631522
+      Frog Pepe_32: 1847277122
+      Frog Pepe_33: 1131638209
+      Frog Pepe_34: 1858655674
+      Frog Pepe_35: -2050272473
+      Frog Pepe_36: 12870163
+      Frog Pepe_37: 1100080640
+      Frog Pepe_38: 114830147
+      Frog Pepe_39: -482109481
+      Frog Pepe_4: -1352041843
+      Frog Pepe_40: 678290577
+      Frog Pepe_41: -514766787
+      Frog Pepe_42: 1204741076
+      Frog Pepe_43: -731790785
+      Frog Pepe_44: 362672120
+      Frog Pepe_45: -746358872
+      Frog Pepe_46: 1943072058
+      Frog Pepe_47: 575639628
+      Frog Pepe_48: 456776673
+      Frog Pepe_49: -1930079117
+      Frog Pepe_5: -2089925019
+      Frog Pepe_50: -511208797
+      Frog Pepe_51: 548583244
+      Frog Pepe_52: -1563026674
+      Frog Pepe_53: 2134953377
+      Frog Pepe_54: 2063682137
+      Frog Pepe_55: -1199384651
+      Frog Pepe_56: 1777140104
+      Frog Pepe_57: -1718994860
+      Frog Pepe_58: -518929505
+      Frog Pepe_59: -2013184204
+      Frog Pepe_6: 602380934
+      Frog Pepe_60: -1186740386
+      Frog Pepe_61: -1933056472
+      Frog Pepe_62: 265403720
+      Frog Pepe_63: -1772493808
+      Frog Pepe_64: 1735054185
+      Frog Pepe_65: 1612682501
+      Frog Pepe_66: -285508724
+      Frog Pepe_67: -1277266232
+      Frog Pepe_68: -264925279
+      Frog Pepe_69: -1182090975
+      Frog Pepe_7: 2119615314
+      Frog Pepe_70: 197028049
+      Frog Pepe_71: -774845284
+      Frog Pepe_72: 1148066435
+      Frog Pepe_73: -614977732
+      Frog Pepe_74: 115550037
+      Frog Pepe_75: 201682190
+      Frog Pepe_76: 1546449027
+      Frog Pepe_77: -1260809927
+      Frog Pepe_78: 2043165567
+      Frog Pepe_79: 1073415146
+      Frog Pepe_8: -1853183314
+      Frog Pepe_80: -1015752256
+      Frog Pepe_81: -644665523
+      Frog Pepe_82: -209211854
+      Frog Pepe_83: -674467341
+      Frog Pepe_84: -816746218
+      Frog Pepe_85: 547091746
+      Frog Pepe_86: -435916592
+      Frog Pepe_87: 292874431
+      Frog Pepe_88: 3453546
+      Frog Pepe_89: -909598561
+      Frog Pepe_9: 2017030174
+      Frog Pepe_90: -1913441672
+      Frog Pepe_91: -1828080753
+      Frog Pepe_92: 96053099
+      Frog Pepe_93: 1589427759
+      Frog Pepe_94: 713294893
+      Frog Pepe_95: -1823500461
+      Frog Pepe_96: 1698721808
+      Frog Pepe_97: 1348317493
+      Frog Pepe_98: 157968586
+      Frog Pepe_99: 600706390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
